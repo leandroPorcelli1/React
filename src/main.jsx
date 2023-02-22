@@ -7,6 +7,6 @@ import ContadorApp from "./contadorApp";
 // const datos = { nombre: "leandro", apellido: "Porcelli" };
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <ContadorApp value={1234} />
+    <ContadorApp value={100} />
   </React.StrictMode>
 );
